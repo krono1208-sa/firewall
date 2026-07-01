@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "Hellow World!!"
-echo "Ete es el primer script para firewall"
+echo "Este es el primer script para firewall"
+echo "Bye"
